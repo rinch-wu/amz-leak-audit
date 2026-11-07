@@ -18,6 +18,7 @@
 
    ```bash
    pip install "https://github.com/rinch-wu/amz-leak-audit/releases/download/v0.1.0/amzleak-0.1.0-py3-none-any.whl"
+   echo "3e50de0a250a679f3ab43b6eb63f569c23541dcb42ce0a90d32a66962bd0e4b4  amzleak-0.1.0-py3-none-any.whl" | sha256sum -c -
    ```
 
    需要直接读取 `.xlsx` 时安装扩展：

@@ -14,7 +14,7 @@ WHEEL_URL = (
     "v0.1.0/amzleak-0.1.0-py3-none-any.whl"
 )
 INSTALL_COMMAND = f'pip install "{WHEEL_URL}"'
-SHA256 = "acd226d340129d15ead285bcd6aa16bbedfdfb96b1d76a6f6446bf0bc1d4d8ca"
+SHA256 = "3e50de0a250a679f3ab43b6eb63f569c23541dcb42ce0a90d32a66962bd0e4b4"
 
 
 def read_index() -> str:
@@ -96,6 +96,10 @@ def test_readme_public_identity_urls_and_scope_warning() -> None:
 def test_install_command_is_identical_in_readme_and_landing_page() -> None:
     assert INSTALL_COMMAND in read_readme()
     assert INSTALL_COMMAND in read_index()
+
+
+def test_readme_contains_real_sha256() -> None:
+    assert SHA256 in read_readme()
 
 
 def test_sitemap_parses_and_robots_references_it() -> None:
