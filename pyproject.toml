@@ -5,12 +5,12 @@ build-backend = "hatchling.build"
 [project]
 name = "amzleak"
 version = "0.1.0"
-description = "亚马逊报表本地漏损审计 CLI：结算、库龄、搜索词三表合并总账"
+description = "本地解析亚马逊结算、库存龄期与搜索词报表，产出可行动漏损总账"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "amzleak contributors" }]
-keywords = ["amazon", "audit", "settlement", "inventory", "ppc", "cli"]
+keywords = ["amazon", "amazon-fba", "audit", "leak-audit", "settlement", "inventory", "ppc", "cli"]
 classifiers = [
   "Development Status :: 3 - Alpha",
   "Environment :: Console",
@@ -22,6 +22,12 @@ classifiers = [
   "Topic :: Office/Business :: Financial :: Accounting",
 ]
 dependencies = []
+
+[project.urls]
+Homepage = "https://rinch-wu.github.io/amz-leak-audit/"
+Repository = "https://github.com/rinch-wu/amz-leak-audit"
+Issues = "https://github.com/rinch-wu/amz-leak-audit/issues"
+Changelog = "https://github.com/rinch-wu/amz-leak-audit/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 xlsx = ["openpyxl>=3.1"]
@@ -44,3 +50,4 @@ include = [
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["src"]
