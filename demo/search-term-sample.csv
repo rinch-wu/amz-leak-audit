@@ -1,0 +1,63 @@
+Sponsored Products Search term report
+
+Campaign Name ,Ad Group Name ,Customer Search Term ,Match Type ,Impressions ,Clicks ,Spend ,7 Day Total Sales ,7 Day Total Orders 
+Campaign Alpha,Earbuds,wireless earbuds,EXACT,1380,61,24.50,0.00,0
+Campaign Beta,Charging,充电器 快充,PHRASE,820,38,18.90,0.00,0
+Campaign Gamma,Phone Accessories,"earbuds, waterproof",BROAD,1090,45,16.40,0.00,0
+Campaign Alpha,Audio,"""premium"" phone case",EXACT,760,55,14.20,0.00,0
+Campaign Beta,Earbuds,bluetooth headphones,PHRASE,930,44,12.80,0.00,0
+Campaign Gamma,Charging,防摔手机壳,BROAD,640,29,11.10,0.00,0
+Campaign Alpha,Phone Accessories,noise cancelling earbuds,EXACT,140,3,1.00,0.00,0
+Campaign Beta,Audio,gaming headset,PHRASE,171,4,1.00,0.00,0
+Campaign Gamma,Earbuds,type c charger,BROAD,202,5,1.00,0.00,0
+Campaign Alpha,Charging,magsafe case,EXACT,233,6,1.00,0.00,0
+Campaign Beta,Phone Accessories,running phone holder,PHRASE,264,7,1.00,0.00,0
+Campaign Gamma,Audio,waterproof pouch,BROAD,295,8,1.00,0.00,0
+Campaign Alpha,Earbuds,headphone adapter,EXACT,326,3,1.00,0.00,0
+Campaign Beta,Charging,bluetooth receiver,PHRASE,357,4,1.00,0.00,0
+Campaign Gamma,Phone Accessories,car charger usb,BROAD,388,5,1.00,0.00,0
+Campaign Alpha,Audio,mini speaker,EXACT,419,6,1.00,0.00,0
+Campaign Beta,Earbuds,wireless charging pad,PHRASE,450,7,1.00,0.00,0
+Campaign Gamma,Charging,phone ring holder,BROAD,481,8,1.00,0.00,0
+Campaign Alpha,Phone Accessories,usb hub,EXACT,512,3,1.00,0.00,0
+Campaign Beta,Audio,repair kit,PHRASE,543,4,1.00,0.00,0
+Campaign Gamma,Earbuds,screen protector,BROAD,574,5,1.00,0.00,0
+Campaign Alpha,Charging,cable organizer,EXACT,605,6,1.00,0.00,0
+Campaign Beta,Phone Accessories,desk stand,PHRASE,636,7,1.00,0.00,0
+Campaign Gamma,Audio,travel adapter,BROAD,667,8,1.00,0.00,0
+Campaign Alpha,Earbuds,portable charger 10000mah,EXACT,180,8,2.10,6.00,1
+Campaign Beta,Charging,sport earbuds,PHRASE,227,10,2.80,8.00,1
+Campaign Gamma,Phone Accessories,charging dock,BROAD,274,12,3.20,9.00,1
+Campaign Alpha,Audio,phone lanyard,EXACT,321,14,3.60,10.00,1
+Campaign Beta,Earbuds,audio splitter,PHRASE,368,16,4.10,11.00,2
+Campaign Gamma,Charging,wireless mouse,BROAD,415,18,4.70,12.00,2
+Campaign Alpha,Phone Accessories,laptop stand,EXACT,462,20,5.20,13.00,2
+Campaign Beta,Audio,usb microphone,PHRASE,509,22,5.80,14.00,2
+Campaign Gamma,Earbuds,smart watch band,BROAD,556,24,6.40,15.00,3
+Campaign Alpha,Charging,phone case clear,EXACT,160,5,4.20,14.70,1
+Campaign Beta,Phone Accessories,fast charger,PHRASE,213,8,5.10,19.89,2
+Campaign Gamma,Audio,earbuds case,BROAD,266,11,6.30,27.09,3
+Campaign Alpha,Earbuds,braided usb cable,EXACT,319,14,7.20,33.84,1
+Campaign Beta,Charging,tablet stand,PHRASE,372,17,8.10,28.35,2
+Campaign Gamma,Phone Accessories,power bank slim,BROAD,425,20,9.40,36.66,3
+Campaign Alpha,Audio,wired earphones,EXACT,478,23,10.20,43.86,1
+Campaign Beta,Earbuds,charging cable 2m,PHRASE,531,6,4.20,19.74,2
+Campaign Gamma,Charging,foldable stand,BROAD,584,9,5.10,17.85,3
+Campaign Alpha,Phone Accessories,car mount,EXACT,637,12,6.30,24.57,1
+Campaign Beta,Audio,speaker mini,PHRASE,690,15,7.20,30.96,2
+Campaign Gamma,Earbuds,screen protector tempered glass,BROAD,743,18,8.10,38.07,3
+Campaign Alpha,Charging,usb c adapter,EXACT,796,21,9.40,32.90,1
+Campaign Beta,Phone Accessories,bluetooth dongle,PHRASE,849,24,10.20,39.78,2
+Campaign Gamma,Audio,phone grip,BROAD,902,7,4.20,18.06,3
+Campaign Alpha,Earbuds,wireless keyboard,EXACT,955,10,5.10,23.97,1
+Campaign Beta,Charging,mouse pad,PHRASE,1008,13,6.30,22.05,2
+Campaign Gamma,Phone Accessories,laptop sleeve,BROAD,1061,16,7.20,28.08,3
+Campaign Alpha,Audio,travel charger,EXACT,1114,19,8.10,34.83,1
+Campaign Beta,Earbuds,audio cable,PHRASE,1167,22,9.40,44.18,2
+Campaign Gamma,Charging,charging station,BROAD,1220,5,10.20,35.70,3
+Campaign Alpha,Phone Accessories,smart watch charger,EXACT,1273,8,4.20,16.38,1
+Campaign Beta,Audio,usb c hub,PHRASE,1326,11,5.10,21.93,2
+Campaign Gamma,Earbuds,phone tripod,BROAD,1379,14,6.30,29.61,3
+Campaign Alpha,Charging,earbud tips,EXACT,1432,17,7.20,25.20,1
+Campaign Beta,Phone Accessories,cable clip,PHRASE,1485,20,8.10,31.59,2
+Campaign Gamma,Audio,desk lamp,BROAD,1538,23,9.40,40.42,3
